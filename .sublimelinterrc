@@ -1,0 +1,7 @@
+{
+    "linters": {
+        "jsxhint": {
+            "config_filename": ".jsxhintrc"
+        }
+    }
+}
