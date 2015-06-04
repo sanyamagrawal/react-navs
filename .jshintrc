@@ -17,7 +17,7 @@
 
   "eqeqeq": true,
 
-  "indent": 4,
+  "indent": 2,
 
   // Prohibit use of a variable before it is defined.
   "latedef": true,
